@@ -30,10 +30,10 @@ interface test_data{
     ,"...へ旅行する","すべて","階段","待っ","太い","makeの過去形", "初めて"};
   String miu_onepara_spel[] = {"need","find","clearly","scientists","enough","experiment","suddenly","nervous","disappeared"
      ,"arrive","decided","appeared","discover","cover","invite","expensive","carry","company","born","bright","move"
-    };
+    ,"poor","died","believe","afraid","poorest","hundred"};
   String miu_onepara_ja[] = {"～を必要とする","～を探す","はっきりと","科学者","十分な","実験","突然","緊張する","見えなくなる"
     ,"到着する","決定する","現れる","発見する","覆う","招待する","高価な","持っている","運ぶ","会社"
-    ,"うまれる","退屈な","動かす"};
+    ,"うまれる","退屈な","動かす","食えな","死ぬ","信じる","恐れて","poor の最上級","100（の)"};
 
   String quotations[]={"今日の成果は過去の努力の結果であり、未来はこれからの努力で決まる（稲盛和夫/実業家・京セラなどの創業者）","真剣だからこそ、ぶつかる壁がある（松岡修造/元プロテニスプレイヤー）"
   ,"小さいことを重ねることが、とんでもないところに行くただひとつの道（イチロー/元メジャーリーガー）","明日はなんとかなると思う馬鹿者。今日でさえ遅すぎるのだ。賢者はもう昨日済ましている（チャールズ・クーリー／社会学者）"
