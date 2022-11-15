@@ -1,2 +1,2 @@
 # introgit
-this is training repository for lerning git.
+this is share random test creater.
